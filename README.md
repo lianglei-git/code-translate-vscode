@@ -1,5 +1,7 @@
 # Code Translate for VS Code
 
+# 2024/4/11 可以用来英翻中的词典
+
 ## 简介
 
 Code Translate 是一款纯粹的滑词翻译软件
